@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991483818340",
+    "project_id": "dogneeds-fc260",
+    "storage_bucket": "dogneeds-fc260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991483818340:android:6a3d8887c5433f73a58a71",
+        "android_client_info": {
+          "package_name": "com.example.dogneeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZqYLNvk4IOb-E9h_wWZ-vZEQuKk6RuAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
